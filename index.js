@@ -1,4 +1,4 @@
-const Discord = require('discord.js-selfbot-v13');
+const Discord = require('/opt/render/project/src/index.js');
 const client = new Discord.Client({
   readyStatus: false,
   checkUpdate: false
